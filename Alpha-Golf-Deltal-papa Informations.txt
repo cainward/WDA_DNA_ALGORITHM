@@ -1,0 +1,24 @@
+**Algorithms:**
+1. Supervised Learning
+2. Unsupervised Learning
+3. Reinforcement Learning
+4. Neural Networks (Deep Learning)
+5. NLP Algorithms
+6. Optimization Algorithms
+7. Evolutionary Algorithms
+8. Fuzzy Logic Systems
+9. Bayesian Networks
+
+**Data Types:**
+1. Structured
+2. Unstructured
+3. Time-Series
+4. Categorical
+5. Numerical
+6. Text
+7. Image
+8. Audio
+9. Video
+10. Graph
+11. Sequential
+12. Fractional
